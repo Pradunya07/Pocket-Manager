@@ -8,4 +8,4 @@ Current version uses 1 Table: pocketmanager
 columns:fname, lname, email and password
 These details are dealt in login.php file
 
-A static gitHub page has been added to show the working protoype of the project. (The php files wont function. Will need to download them) 
+A static gitHub page has been added to show the working protoype of the project. (The php files wont function. Will need to download and run the project on local host) 
